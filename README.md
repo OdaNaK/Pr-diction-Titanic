@@ -1,1 +1,1 @@
-# Pr-diction-Titanic
+# Prediction-Titanic
